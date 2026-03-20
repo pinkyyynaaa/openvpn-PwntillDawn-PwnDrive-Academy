@@ -1,4 +1,4 @@
-# PwnDrive Academy - 10.150.150.11
+# PwnDrive Academy - 10.150.150.11 Walkthrough
 
 ## Overview
 
