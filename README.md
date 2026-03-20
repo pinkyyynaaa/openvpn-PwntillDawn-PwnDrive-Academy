@@ -58,7 +58,7 @@ The scan returned a wealth of information, revealing a Windows-based environment
 
 ## 3. Gaining Access
 
-**1.Investigating the Web Server**
+**1. Investigating the Web Server**
 
 Next, navigating to ```http://10.150.150.11``` in a web browser.
 
